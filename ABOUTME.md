@@ -1,6 +1,6 @@
 Hi, im Lennaxx and i'm currently learning the programming-language Java with the framework Spigot/Bukkit.
 
-Contact() {
+pulic static void Contact() {
 
 Discord("Lennaxx#7536");
 
